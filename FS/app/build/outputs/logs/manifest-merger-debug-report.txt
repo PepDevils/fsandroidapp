@@ -1,0 +1,165 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/dezvezesdez/FarmaciaSerrano/app/src/main/AndroidManifest.xml:2:1-51:12
+	package
+		ADDED from /Users/dezvezesdez/FarmaciaSerrano/app/src/main/AndroidManifest.xml:3:5-45
+		INJECTED from /Users/dezvezesdez/FarmaciaSerrano/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/dezvezesdez/FarmaciaSerrano/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/dezvezesdez/FarmaciaSerrano/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/dezvezesdez/FarmaciaSerrano/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/dezvezesdez/FarmaciaSerrano/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/dezvezesdez/FarmaciaSerrano/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/dezvezesdez/FarmaciaSerrano/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/dezvezesdez/FarmaciaSerrano/app/src/main/AndroidManifest.xml:5:5-67
+MERGED from [com.daimajia.slider:library:1.1.5] /Users/dezvezesdez/.android/build-cache/7556c87b0a1e6ed5ee48a23ee9ed3e40ba798458/output/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from /Users/dezvezesdez/FarmaciaSerrano/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/dezvezesdez/FarmaciaSerrano/app/src/main/AndroidManifest.xml:6:5-81
+MERGED from [com.daimajia.slider:library:1.1.5] /Users/dezvezesdez/.android/build-cache/7556c87b0a1e6ed5ee48a23ee9ed3e40ba798458/output/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from /Users/dezvezesdez/FarmaciaSerrano/app/src/main/AndroidManifest.xml:6:22-78
+application
+ADDED from /Users/dezvezesdez/FarmaciaSerrano/app/src/main/AndroidManifest.xml:8:5-49:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta4] /Users/dezvezesdez/.android/build-cache/6d9a817413a513e36134b663b479b9dd9fb21cee/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.3.1] /Users/dezvezesdez/.android/build-cache/5b03df77df0ba060b88ed07a3fcda3e69be3b1c2/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/dezvezesdez/.android/build-cache/dc4b39f51df5008b1ed8e525572bc35aa90f1307/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/dezvezesdez/.android/build-cache/1a2c78de5c582ecf9365021418fe71054229c397/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/dezvezesdez/.android/build-cache/0c580f697d69ddf195f3027b8569895ae2e5dc56/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] /Users/dezvezesdez/.android/build-cache/8e06093345dc04ce4afe70e881a8207ac79c26e4/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/dezvezesdez/.android/build-cache/70677abcb1d2535ba29652dbf6e222f248642cc9/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/dezvezesdez/.android/build-cache/9ebdaaad6bd96b88c3d24bbb72d84baa6c7f6a17/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/dezvezesdez/.android/build-cache/1431582f69cd55d2a133c530a4f653ca5e6e7a50/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/dezvezesdez/.android/build-cache/03003fcf52d2cf48a2b51bec668d8ae6effa578b/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/dezvezesdez/.android/build-cache/232d7b7313bd91c2a5d1253555a5ed7d59304c35/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/dezvezesdez/.android/build-cache/10468d8003aacbe2422a38d5d04f948add0c28da/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /Users/dezvezesdez/FarmaciaSerrano/app/src/main/AndroidManifest.xml:11:9-41
+	android:supportsRtl
+		ADDED from /Users/dezvezesdez/FarmaciaSerrano/app/src/main/AndroidManifest.xml:13:9-35
+	android:roundIcon
+		ADDED from /Users/dezvezesdez/FarmaciaSerrano/app/src/main/AndroidManifest.xml:12:9-54
+	android:allowBackup
+		ADDED from /Users/dezvezesdez/FarmaciaSerrano/app/src/main/AndroidManifest.xml:9:9-35
+	android:icon
+		ADDED from /Users/dezvezesdez/FarmaciaSerrano/app/src/main/AndroidManifest.xml:10:9-43
+	android:theme
+		ADDED from /Users/dezvezesdez/FarmaciaSerrano/app/src/main/AndroidManifest.xml:14:9-40
+activity#pt.dezvezesdez.farmaciaserrano.activities.FullscreenActivity
+ADDED from /Users/dezvezesdez/FarmaciaSerrano/app/src/main/AndroidManifest.xml:15:9-25:20
+	android:label
+		ADDED from /Users/dezvezesdez/FarmaciaSerrano/app/src/main/AndroidManifest.xml:18:13-45
+	android:configChanges
+		ADDED from /Users/dezvezesdez/FarmaciaSerrano/app/src/main/AndroidManifest.xml:17:13-74
+	android:theme
+		ADDED from /Users/dezvezesdez/FarmaciaSerrano/app/src/main/AndroidManifest.xml:19:13-51
+	android:name
+		ADDED from /Users/dezvezesdez/FarmaciaSerrano/app/src/main/AndroidManifest.xml:16:13-58
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/dezvezesdez/FarmaciaSerrano/app/src/main/AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from /Users/dezvezesdez/FarmaciaSerrano/app/src/main/AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from /Users/dezvezesdez/FarmaciaSerrano/app/src/main/AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/dezvezesdez/FarmaciaSerrano/app/src/main/AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from /Users/dezvezesdez/FarmaciaSerrano/app/src/main/AndroidManifest.xml:23:27-74
+activity#pt.dezvezesdez.farmaciaserrano.activities.MainActivity
+ADDED from /Users/dezvezesdez/FarmaciaSerrano/app/src/main/AndroidManifest.xml:26:9-36:20
+	android:screenOrientation
+		ADDED from /Users/dezvezesdez/FarmaciaSerrano/app/src/main/AndroidManifest.xml:29:13-49
+	android:launchMode
+		ADDED from /Users/dezvezesdez/FarmaciaSerrano/app/src/main/AndroidManifest.xml:28:13-48
+	android:name
+		ADDED from /Users/dezvezesdez/FarmaciaSerrano/app/src/main/AndroidManifest.xml:27:13-52
+intent-filter#android.intent.action.SEARCH
+ADDED from /Users/dezvezesdez/FarmaciaSerrano/app/src/main/AndroidManifest.xml:30:13-32:29
+action#android.intent.action.SEARCH
+ADDED from /Users/dezvezesdez/FarmaciaSerrano/app/src/main/AndroidManifest.xml:31:17-71
+	android:name
+		ADDED from /Users/dezvezesdez/FarmaciaSerrano/app/src/main/AndroidManifest.xml:31:25-68
+meta-data#android.app.searchable
+ADDED from /Users/dezvezesdez/FarmaciaSerrano/app/src/main/AndroidManifest.xml:33:13-35:58
+	android:resource
+		ADDED from /Users/dezvezesdez/FarmaciaSerrano/app/src/main/AndroidManifest.xml:35:17-55
+	android:name
+		ADDED from /Users/dezvezesdez/FarmaciaSerrano/app/src/main/AndroidManifest.xml:34:17-54
+activity#pt.dezvezesdez.farmaciaserrano.activities.HomeActivity
+ADDED from /Users/dezvezesdez/FarmaciaSerrano/app/src/main/AndroidManifest.xml:37:9-39:52
+	android:screenOrientation
+		ADDED from /Users/dezvezesdez/FarmaciaSerrano/app/src/main/AndroidManifest.xml:39:13-49
+	android:name
+		ADDED from /Users/dezvezesdez/FarmaciaSerrano/app/src/main/AndroidManifest.xml:38:13-52
+activity#pt.dezvezesdez.farmaciaserrano.activities.CarrinhoActivity
+ADDED from /Users/dezvezesdez/FarmaciaSerrano/app/src/main/AndroidManifest.xml:40:9-65
+	android:name
+		ADDED from /Users/dezvezesdez/FarmaciaSerrano/app/src/main/AndroidManifest.xml:40:19-62
+activity#pt.dezvezesdez.farmaciaserrano.activities.PesquisaAvancadaActivity
+ADDED from /Users/dezvezesdez/FarmaciaSerrano/app/src/main/AndroidManifest.xml:41:9-43:47
+	android:theme
+		ADDED from /Users/dezvezesdez/FarmaciaSerrano/app/src/main/AndroidManifest.xml:43:13-44
+	android:name
+		ADDED from /Users/dezvezesdez/FarmaciaSerrano/app/src/main/AndroidManifest.xml:42:13-64
+activity#pt.dezvezesdez.farmaciaserrano.activities.ResultadoActivity
+ADDED from /Users/dezvezesdez/FarmaciaSerrano/app/src/main/AndroidManifest.xml:44:9-66
+	android:name
+		ADDED from /Users/dezvezesdez/FarmaciaSerrano/app/src/main/AndroidManifest.xml:44:19-63
+activity#pt.dezvezesdez.farmaciaserrano.activities.ProdutoActivity
+ADDED from /Users/dezvezesdez/FarmaciaSerrano/app/src/main/AndroidManifest.xml:45:9-48:20
+	android:theme
+		ADDED from /Users/dezvezesdez/FarmaciaSerrano/app/src/main/AndroidManifest.xml:47:13-44
+	android:name
+		ADDED from /Users/dezvezesdez/FarmaciaSerrano/app/src/main/AndroidManifest.xml:46:13-55
+uses-sdk
+INJECTED from /Users/dezvezesdez/FarmaciaSerrano/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.appyvet:materialrangebar:1.3] /Users/dezvezesdez/.android/build-cache/ade13a3b8e1c9870476c8188c2066956131aef10/output/AndroidManifest.xml:7:5-9:41
+MERGED from [io.reactivex:rxandroid:1.2.1] /Users/dezvezesdez/.android/build-cache/c007e3c98dedb1ed7db9d905cde99e6b373907f0/output/AndroidManifest.xml:19:5-43
+MERGED from [com.mikepenz:fastadapter-extensions:2.1.7] /Users/dezvezesdez/.android/build-cache/1f33643aadb44da132b00a5d68f533c62a541c47/output/AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:iconics-core:2.8.2] /Users/dezvezesdez/.android/build-cache/5a0b44d0314a98a8985e59d4bb083f7003935562/output/AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:actionitembadge:3.3.1] /Users/dezvezesdez/.android/build-cache/e81ea25cc42e69995a9920e94c6fae93c5aaa83d/output/AndroidManifest.xml:8:5-10:41
+MERGED from [com.daimajia.slider:library:1.1.5] /Users/dezvezesdez/.android/build-cache/7556c87b0a1e6ed5ee48a23ee9ed3e40ba798458/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta4] /Users/dezvezesdez/.android/build-cache/6d9a817413a513e36134b663b479b9dd9fb21cee/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:25.3.1] /Users/dezvezesdez/.android/build-cache/5b03df77df0ba060b88ed07a3fcda3e69be3b1c2/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/dezvezesdez/.android/build-cache/dc4b39f51df5008b1ed8e525572bc35aa90f1307/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/dezvezesdez/.android/build-cache/1a2c78de5c582ecf9365021418fe71054229c397/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/dezvezesdez/.android/build-cache/0c580f697d69ddf195f3027b8569895ae2e5dc56/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/dezvezesdez/.android/build-cache/41988ef8266855f97301bb886c152d8178a83de7/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] /Users/dezvezesdez/.android/build-cache/8e06093345dc04ce4afe70e881a8207ac79c26e4/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] /Users/dezvezesdez/.android/build-cache/70677abcb1d2535ba29652dbf6e222f248642cc9/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/dezvezesdez/.android/build-cache/9ebdaaad6bd96b88c3d24bbb72d84baa6c7f6a17/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/dezvezesdez/.android/build-cache/1431582f69cd55d2a133c530a4f653ca5e6e7a50/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/dezvezesdez/.android/build-cache/03003fcf52d2cf48a2b51bec668d8ae6effa578b/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/dezvezesdez/.android/build-cache/232d7b7313bd91c2a5d1253555a5ed7d59304c35/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] /Users/dezvezesdez/.android/build-cache/10468d8003aacbe2422a38d5d04f948add0c28da/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] /Users/dezvezesdez/.android/build-cache/5b03df77df0ba060b88ed07a3fcda3e69be3b1c2/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/dezvezesdez/FarmaciaSerrano/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/dezvezesdez/FarmaciaSerrano/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/dezvezesdez/FarmaciaSerrano/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/dezvezesdez/FarmaciaSerrano/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/dezvezesdez/FarmaciaSerrano/app/src/main/AndroidManifest.xml:2:1-51:12 reason: com.daimajia.slider.library requested WRITE_EXTERNAL_STORAGE
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] /Users/dezvezesdez/.android/build-cache/5b03df77df0ba060b88ed07a3fcda3e69be3b1c2/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/dezvezesdez/.android/build-cache/dc4b39f51df5008b1ed8e525572bc35aa90f1307/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/dezvezesdez/.android/build-cache/1a2c78de5c582ecf9365021418fe71054229c397/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/dezvezesdez/.android/build-cache/0c580f697d69ddf195f3027b8569895ae2e5dc56/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/dezvezesdez/.android/build-cache/41988ef8266855f97301bb886c152d8178a83de7/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /Users/dezvezesdez/.android/build-cache/8e06093345dc04ce4afe70e881a8207ac79c26e4/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/dezvezesdez/.android/build-cache/70677abcb1d2535ba29652dbf6e222f248642cc9/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/dezvezesdez/.android/build-cache/9ebdaaad6bd96b88c3d24bbb72d84baa6c7f6a17/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/dezvezesdez/.android/build-cache/1431582f69cd55d2a133c530a4f653ca5e6e7a50/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/dezvezesdez/.android/build-cache/03003fcf52d2cf48a2b51bec668d8ae6effa578b/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/dezvezesdez/.android/build-cache/232d7b7313bd91c2a5d1253555a5ed7d59304c35/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/dezvezesdez/.android/build-cache/10468d8003aacbe2422a38d5d04f948add0c28da/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] /Users/dezvezesdez/.android/build-cache/5b03df77df0ba060b88ed07a3fcda3e69be3b1c2/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] /Users/dezvezesdez/.android/build-cache/5b03df77df0ba060b88ed07a3fcda3e69be3b1c2/output/AndroidManifest.xml:26:9-47

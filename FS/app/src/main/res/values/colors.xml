@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="black_overlay">#AA000000</color>
+    <color name="niente">#11000000</color>
+
+    <color name="fs_rosa">#A92886</color>
+    <color name="fs_rosa_dark">#892886</color>
+    <color name="fs_verde">#B2CA18</color>
+
+
+    <color name="md_red_900">#B71C1C</color>
+    <color name="md_blue_900">#0D47A1</color>
+
+</resources>

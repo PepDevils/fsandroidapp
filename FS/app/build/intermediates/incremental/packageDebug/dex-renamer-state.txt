@@ -1,0 +1,7 @@
+#Fri Jun 30 17:51:56 WEST 2017
+base.0=/Users/dezvezesdez/FarmaciaSerrano/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_bc9e2b0b0ff59105d88adeb0365850818e7ee610
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/dezvezesdez/FarmaciaSerrano/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ade9378cf1b04ae942c3a0856d16450cb4e73e53/classes.dex
+base.1=/Users/dezvezesdez/FarmaciaSerrano/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ade9378cf1b04ae942c3a0856d16450cb4e73e53
+file.0=/Users/dezvezesdez/FarmaciaSerrano/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_bc9e2b0b0ff59105d88adeb0365850818e7ee610/classes.dex

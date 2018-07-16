@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_margin">8dp</dimen>
+    <dimen name="txt_bt">10sp</dimen>
+    <dimen name="banners_height">225dp</dimen>
+
+    <!--botão-->
+    <dimen name="bt_radius">10dp</dimen>
+
+    <!--spinner-->
+    <dimen name="stroke_with">2dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+</resources>

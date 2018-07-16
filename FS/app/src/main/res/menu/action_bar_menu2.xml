@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:myapp="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_compra"
+        android:icon="@android:drawable/ic_input_get"
+        android:title="Compras"
+        myapp:showAsAction="ifRoom|collapseActionView"/>
+
+    <item
+        android:id="@+id/action_pesquisa"
+        android:icon="@android:drawable/ic_search_category_default"
+        android:title="Pesquisa"
+        myapp:showAsAction="ifRoom|collapseActionView"
+        />
+
+
+    <item
+        android:id="@+id/action_pesquisa_avançada"
+        android:icon="@android:drawable/ic_menu_set_as"
+        android:title="Pesquisa Avançada"
+        myapp:showAsAction="ifRoom|collapseActionView"
+        />
+
+
+    <item android:id="@+id/action_settings"
+        android:title="Área Pessoal"
+        myapp:showAsAction="never|collapseActionView"/>
+
+</menu>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/rrl"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:transitionGroup="true"
+    android:background="@android:color/white"
+    tools:context="pt.dezvezesdez.farmaciaserrano.activities.MainActivity">
+
+
+    <!--android:layout_marginTop="25dp"-->
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/my_toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:layout_alignParentStart="true"
+
+        android:background="?attr/colorPrimaryDark"
+        android:elevation="4dp"
+        app:titleTextColor="@android:color/black"
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="0dp" />
+
+    <TextView
+        android:id="@+id/label_result"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/my_toolbar"
+        android:background="@color/fs_verde"
+        android:ellipsize="end"
+        android:maxLines="1"
+        android:textColor="@android:color/white"
+        android:textStyle="bold"
+        android:visibility="gone" />
+
+
+    <ImageView
+        android:id="@+id/subimage"
+        android:layout_width="match_parent"
+        android:layout_height="180dp"
+        android:layout_below="@+id/my_toolbar"
+        android:src="@mipmap/ic_launcher" />
+
+
+    <!--    <TextView
+            android:id="@+id/tx_subcategoria"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/subimage"
+            android:background="@color/colorAccent"
+            android:gravity="center"
+            android:padding="5dp"
+            android:text="Subcategoria"
+            android:textColor="@android:color/white"
+            android:textSize="16sp" />-->
+
+    <FrameLayout
+        android:id="@+id/spinner_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/subimage"
+        android:layout_margin="2dp"
+        android:background="@drawable/spinner_border"
+        android:padding="5dp">
+
+        <Spinner
+            android:id="@+id/spinner_subcat"
+            style="@style/SpinnerwithNoArrow"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:drawSelectorOnTop="false"
+            android:dropDownSelector="@null"
+            android:gravity="center"></Spinner>
+
+    </FrameLayout>
+
+
+    <!--    <FrameLayout
+            android:id="@+id/fragment_container"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/spinner_subcat"
+            android:background="@android:color/darker_gray" />-->
+
+    <ScrollView
+        android:id="@+id/scrollView"
+        android:layout_width="match_parent"
+        android:transitionGroup="true"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/spinner_container">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <FrameLayout
+                android:id="@+id/fragment_for_scroll"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/line_v" />
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+
+</RelativeLayout>

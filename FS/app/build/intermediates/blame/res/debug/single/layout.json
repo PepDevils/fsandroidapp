@@ -1,0 +1,318 @@
+[
+    {
+        "merged": "/Users/dezvezesdez/FarmaciaSerrano/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/dezvezesdez/.android/build-cache/dc4b39f51df5008b1ed8e525572bc35aa90f1307/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/dezvezesdez/FarmaciaSerrano/app/build/intermediates/res/merged/debug/layout/menu_action_item_badge_large.xml",
+        "source": "/Users/dezvezesdez/.android/build-cache/e81ea25cc42e69995a9920e94c6fae93c5aaa83d/output/res/layout/menu_action_item_badge_large.xml"
+    },
+    {
+        "merged": "/Users/dezvezesdez/FarmaciaSerrano/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/dezvezesdez/.android/build-cache/dc4b39f51df5008b1ed8e525572bc35aa90f1307/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/dezvezesdez/FarmaciaSerrano/app/build/intermediates/res/merged/debug/layout/fragment_ajuda.xml",
+        "source": "/Users/dezvezesdez/FarmaciaSerrano/app/src/main/res/layout/fragment_ajuda.xml"
+    },
+    {
+        "merged": "/Users/dezvezesdez/FarmaciaSerrano/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/Users/dezvezesdez/.android/build-cache/5b03df77df0ba060b88ed07a3fcda3e69be3b1c2/output/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/Users/dezvezesdez/FarmaciaSerrano/app/build/intermediates/res/merged/debug/layout/sub_bar.xml",
+        "source": "/Users/dezvezesdez/FarmaciaSerrano/app/src/main/res/layout/sub_bar.xml"
+    },
+    {
+        "merged": "/Users/dezvezesdez/FarmaciaSerrano/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/Users/dezvezesdez/.android/build-cache/5b03df77df0ba060b88ed07a3fcda3e69be3b1c2/output/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/Users/dezvezesdez/FarmaciaSerrano/app/build/intermediates/res/merged/debug/layout/three_line_item.xml",
+        "source": "/Users/dezvezesdez/.android/build-cache/1f33643aadb44da132b00a5d68f533c62a541c47/output/res/layout/three_line_item.xml"
+    },
+    {
+        "merged": "/Users/dezvezesdez/FarmaciaSerrano/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/dezvezesdez/.android/build-cache/dc4b39f51df5008b1ed8e525572bc35aa90f1307/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/dezvezesdez/FarmaciaSerrano/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/dezvezesdez/.android/build-cache/dc4b39f51df5008b1ed8e525572bc35aa90f1307/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/dezvezesdez/FarmaciaSerrano/app/build/intermediates/res/merged/debug/layout/layout_criar_conta.xml",
+        "source": "/Users/dezvezesdez/FarmaciaSerrano/app/src/main/res/layout/layout_criar_conta.xml"
+    },
+    {
+        "merged": "/Users/dezvezesdez/FarmaciaSerrano/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/dezvezesdez/.android/build-cache/dc4b39f51df5008b1ed8e525572bc35aa90f1307/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/dezvezesdez/FarmaciaSerrano/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/dezvezesdez/.android/build-cache/dc4b39f51df5008b1ed8e525572bc35aa90f1307/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/dezvezesdez/FarmaciaSerrano/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/dezvezesdez/.android/build-cache/dc4b39f51df5008b1ed8e525572bc35aa90f1307/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/dezvezesdez/FarmaciaSerrano/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/Users/dezvezesdez/.android/build-cache/5b03df77df0ba060b88ed07a3fcda3e69be3b1c2/output/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/dezvezesdez/FarmaciaSerrano/app/build/intermediates/res/merged/debug/layout/my_simple_spinner_item_2.xml",
+        "source": "/Users/dezvezesdez/FarmaciaSerrano/app/src/main/res/layout/my_simple_spinner_item_2.xml"
+    },
+    {
+        "merged": "/Users/dezvezesdez/FarmaciaSerrano/app/build/intermediates/res/merged/debug/layout/render_type_default.xml",
+        "source": "/Users/dezvezesdez/.android/build-cache/7556c87b0a1e6ed5ee48a23ee9ed3e40ba798458/output/res/layout/render_type_default.xml"
+    },
+    {
+        "merged": "/Users/dezvezesdez/FarmaciaSerrano/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/dezvezesdez/.android/build-cache/dc4b39f51df5008b1ed8e525572bc35aa90f1307/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/dezvezesdez/FarmaciaSerrano/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/dezvezesdez/.android/build-cache/dc4b39f51df5008b1ed8e525572bc35aa90f1307/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/dezvezesdez/FarmaciaSerrano/app/build/intermediates/res/merged/debug/layout/fragment_prod.xml",
+        "source": "/Users/dezvezesdez/FarmaciaSerrano/app/src/main/res/layout/fragment_prod.xml"
+    },
+    {
+        "merged": "/Users/dezvezesdez/FarmaciaSerrano/app/build/intermediates/res/merged/debug/layout/activity_pesquisa_avancada.xml",
+        "source": "/Users/dezvezesdez/FarmaciaSerrano/app/src/main/res/layout/activity_pesquisa_avancada.xml"
+    },
+    {
+        "merged": "/Users/dezvezesdez/FarmaciaSerrano/app/build/intermediates/res/merged/debug/layout/slider_layout.xml",
+        "source": "/Users/dezvezesdez/.android/build-cache/7556c87b0a1e6ed5ee48a23ee9ed3e40ba798458/output/res/layout/slider_layout.xml"
+    },
+    {
+        "merged": "/Users/dezvezesdez/FarmaciaSerrano/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/Users/dezvezesdez/.android/build-cache/5b03df77df0ba060b88ed07a3fcda3e69be3b1c2/output/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/Users/dezvezesdez/FarmaciaSerrano/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/dezvezesdez/FarmaciaSerrano/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/dezvezesdez/FarmaciaSerrano/app/build/intermediates/res/merged/debug/layout/render_type_text.xml",
+        "source": "/Users/dezvezesdez/.android/build-cache/7556c87b0a1e6ed5ee48a23ee9ed3e40ba798458/output/res/layout/render_type_text.xml"
+    },
+    {
+        "merged": "/Users/dezvezesdez/FarmaciaSerrano/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/dezvezesdez/.android/build-cache/dc4b39f51df5008b1ed8e525572bc35aa90f1307/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/dezvezesdez/FarmaciaSerrano/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/dezvezesdez/.android/build-cache/dc4b39f51df5008b1ed8e525572bc35aa90f1307/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/dezvezesdez/FarmaciaSerrano/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/Users/dezvezesdez/.android/build-cache/5b03df77df0ba060b88ed07a3fcda3e69be3b1c2/output/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/Users/dezvezesdez/FarmaciaSerrano/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/dezvezesdez/.android/build-cache/dc4b39f51df5008b1ed8e525572bc35aa90f1307/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/dezvezesdez/FarmaciaSerrano/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/dezvezesdez/.android/build-cache/dc4b39f51df5008b1ed8e525572bc35aa90f1307/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/dezvezesdez/FarmaciaSerrano/app/build/intermediates/res/merged/debug/layout/my_simple_spinner_item.xml",
+        "source": "/Users/dezvezesdez/FarmaciaSerrano/app/src/main/res/layout/my_simple_spinner_item.xml"
+    },
+    {
+        "merged": "/Users/dezvezesdez/FarmaciaSerrano/app/build/intermediates/res/merged/debug/layout/item_categoria.xml",
+        "source": "/Users/dezvezesdez/FarmaciaSerrano/app/src/main/res/layout/item_categoria.xml"
+    },
+    {
+        "merged": "/Users/dezvezesdez/FarmaciaSerrano/app/build/intermediates/res/merged/debug/layout/activity_carrinho.xml",
+        "source": "/Users/dezvezesdez/FarmaciaSerrano/app/src/main/res/layout/activity_carrinho.xml"
+    },
+    {
+        "merged": "/Users/dezvezesdez/FarmaciaSerrano/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/Users/dezvezesdez/.android/build-cache/5b03df77df0ba060b88ed07a3fcda3e69be3b1c2/output/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/dezvezesdez/FarmaciaSerrano/app/build/intermediates/res/merged/debug/layout/single_line_item.xml",
+        "source": "/Users/dezvezesdez/.android/build-cache/1f33643aadb44da132b00a5d68f533c62a541c47/output/res/layout/single_line_item.xml"
+    },
+    {
+        "merged": "/Users/dezvezesdez/FarmaciaSerrano/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/Users/dezvezesdez/.android/build-cache/5b03df77df0ba060b88ed07a3fcda3e69be3b1c2/output/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/Users/dezvezesdez/FarmaciaSerrano/app/build/intermediates/res/merged/debug/layout/fragment_produtos_list.xml",
+        "source": "/Users/dezvezesdez/FarmaciaSerrano/app/src/main/res/layout/fragment_produtos_list.xml"
+    },
+    {
+        "merged": "/Users/dezvezesdez/FarmaciaSerrano/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/dezvezesdez/.android/build-cache/dc4b39f51df5008b1ed8e525572bc35aa90f1307/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/dezvezesdez/FarmaciaSerrano/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/dezvezesdez/.android/build-cache/dc4b39f51df5008b1ed8e525572bc35aa90f1307/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/dezvezesdez/FarmaciaSerrano/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/dezvezesdez/.android/build-cache/dc4b39f51df5008b1ed8e525572bc35aa90f1307/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/dezvezesdez/FarmaciaSerrano/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/dezvezesdez/.android/build-cache/dc4b39f51df5008b1ed8e525572bc35aa90f1307/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/dezvezesdez/FarmaciaSerrano/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/dezvezesdez/.android/build-cache/dc4b39f51df5008b1ed8e525572bc35aa90f1307/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/dezvezesdez/FarmaciaSerrano/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/dezvezesdez/.android/build-cache/dc4b39f51df5008b1ed8e525572bc35aa90f1307/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/dezvezesdez/FarmaciaSerrano/app/build/intermediates/res/merged/debug/layout/fragment_produtos.xml",
+        "source": "/Users/dezvezesdez/FarmaciaSerrano/app/src/main/res/layout/fragment_produtos.xml"
+    },
+    {
+        "merged": "/Users/dezvezesdez/FarmaciaSerrano/app/build/intermediates/res/merged/debug/layout/indicator_layout.xml",
+        "source": "/Users/dezvezesdez/.android/build-cache/7556c87b0a1e6ed5ee48a23ee9ed3e40ba798458/output/res/layout/indicator_layout.xml"
+    },
+    {
+        "merged": "/Users/dezvezesdez/FarmaciaSerrano/app/build/intermediates/res/merged/debug/layout/fragment_detalhes_conta.xml",
+        "source": "/Users/dezvezesdez/FarmaciaSerrano/app/src/main/res/layout/fragment_detalhes_conta.xml"
+    },
+    {
+        "merged": "/Users/dezvezesdez/FarmaciaSerrano/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/dezvezesdez/.android/build-cache/dc4b39f51df5008b1ed8e525572bc35aa90f1307/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/dezvezesdez/FarmaciaSerrano/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/dezvezesdez/.android/build-cache/dc4b39f51df5008b1ed8e525572bc35aa90f1307/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/dezvezesdez/FarmaciaSerrano/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/dezvezesdez/.android/build-cache/dc4b39f51df5008b1ed8e525572bc35aa90f1307/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/dezvezesdez/FarmaciaSerrano/app/build/intermediates/res/merged/debug/layout/activity_resultado.xml",
+        "source": "/Users/dezvezesdez/FarmaciaSerrano/app/src/main/res/layout/activity_resultado.xml"
+    },
+    {
+        "merged": "/Users/dezvezesdez/FarmaciaSerrano/app/build/intermediates/res/merged/debug/layout/activity_produto.xml",
+        "source": "/Users/dezvezesdez/FarmaciaSerrano/app/src/main/res/layout/activity_produto.xml"
+    },
+    {
+        "merged": "/Users/dezvezesdez/FarmaciaSerrano/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/Users/dezvezesdez/.android/build-cache/5b03df77df0ba060b88ed07a3fcda3e69be3b1c2/output/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/Users/dezvezesdez/FarmaciaSerrano/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/Users/dezvezesdez/.android/build-cache/5b03df77df0ba060b88ed07a3fcda3e69be3b1c2/output/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/Users/dezvezesdez/FarmaciaSerrano/app/build/intermediates/res/merged/debug/layout/fragment_categorias.xml",
+        "source": "/Users/dezvezesdez/FarmaciaSerrano/app/src/main/res/layout/fragment_categorias.xml"
+    },
+    {
+        "merged": "/Users/dezvezesdez/FarmaciaSerrano/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/Users/dezvezesdez/.android/build-cache/5b03df77df0ba060b88ed07a3fcda3e69be3b1c2/output/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/Users/dezvezesdez/FarmaciaSerrano/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/Users/dezvezesdez/.android/build-cache/5b03df77df0ba060b88ed07a3fcda3e69be3b1c2/output/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Users/dezvezesdez/FarmaciaSerrano/app/build/intermediates/res/merged/debug/layout/menu_action_item_badge.xml",
+        "source": "/Users/dezvezesdez/.android/build-cache/e81ea25cc42e69995a9920e94c6fae93c5aaa83d/output/res/layout/menu_action_item_badge.xml"
+    },
+    {
+        "merged": "/Users/dezvezesdez/FarmaciaSerrano/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/Users/dezvezesdez/.android/build-cache/dc4b39f51df5008b1ed8e525572bc35aa90f1307/output/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/dezvezesdez/FarmaciaSerrano/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/Users/dezvezesdez/.android/build-cache/5b03df77df0ba060b88ed07a3fcda3e69be3b1c2/output/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/dezvezesdez/FarmaciaSerrano/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/dezvezesdez/.android/build-cache/dc4b39f51df5008b1ed8e525572bc35aa90f1307/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/dezvezesdez/FarmaciaSerrano/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/dezvezesdez/.android/build-cache/dc4b39f51df5008b1ed8e525572bc35aa90f1307/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/dezvezesdez/FarmaciaSerrano/app/build/intermediates/res/merged/debug/layout/progress_item.xml",
+        "source": "/Users/dezvezesdez/.android/build-cache/1f33643aadb44da132b00a5d68f533c62a541c47/output/res/layout/progress_item.xml"
+    },
+    {
+        "merged": "/Users/dezvezesdez/FarmaciaSerrano/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/dezvezesdez/.android/build-cache/dc4b39f51df5008b1ed8e525572bc35aa90f1307/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/dezvezesdez/FarmaciaSerrano/app/build/intermediates/res/merged/debug/layout/two_line_item.xml",
+        "source": "/Users/dezvezesdez/.android/build-cache/1f33643aadb44da132b00a5d68f533c62a541c47/output/res/layout/two_line_item.xml"
+    },
+    {
+        "merged": "/Users/dezvezesdez/FarmaciaSerrano/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/dezvezesdez/.android/build-cache/dc4b39f51df5008b1ed8e525572bc35aa90f1307/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/dezvezesdez/FarmaciaSerrano/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/dezvezesdez/.android/build-cache/dc4b39f51df5008b1ed8e525572bc35aa90f1307/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/dezvezesdez/FarmaciaSerrano/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/dezvezesdez/.android/build-cache/dc4b39f51df5008b1ed8e525572bc35aa90f1307/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/dezvezesdez/FarmaciaSerrano/app/build/intermediates/res/merged/debug/layout/activity_fullscreen.xml",
+        "source": "/Users/dezvezesdez/FarmaciaSerrano/app/src/main/res/layout/activity_fullscreen.xml"
+    },
+    {
+        "merged": "/Users/dezvezesdez/FarmaciaSerrano/app/build/intermediates/res/merged/debug/layout/design_bottom_navigation_item.xml",
+        "source": "/Users/dezvezesdez/.android/build-cache/5b03df77df0ba060b88ed07a3fcda3e69be3b1c2/output/res/layout/design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/dezvezesdez/FarmaciaSerrano/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/Users/dezvezesdez/.android/build-cache/dc4b39f51df5008b1ed8e525572bc35aa90f1307/output/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/dezvezesdez/FarmaciaSerrano/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/dezvezesdez/.android/build-cache/dc4b39f51df5008b1ed8e525572bc35aa90f1307/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/dezvezesdez/FarmaciaSerrano/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/dezvezesdez/.android/build-cache/dc4b39f51df5008b1ed8e525572bc35aa90f1307/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/dezvezesdez/FarmaciaSerrano/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/Users/dezvezesdez/.android/build-cache/dc4b39f51df5008b1ed8e525572bc35aa90f1307/output/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/dezvezesdez/FarmaciaSerrano/app/build/intermediates/res/merged/debug/layout/activity_home.xml",
+        "source": "/Users/dezvezesdez/FarmaciaSerrano/app/src/main/res/layout/activity_home.xml"
+    },
+    {
+        "merged": "/Users/dezvezesdez/FarmaciaSerrano/app/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
+        "source": "/Users/dezvezesdez/.android/build-cache/5b03df77df0ba060b88ed07a3fcda3e69be3b1c2/output/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/Users/dezvezesdez/FarmaciaSerrano/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/dezvezesdez/.android/build-cache/dc4b39f51df5008b1ed8e525572bc35aa90f1307/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/dezvezesdez/FarmaciaSerrano/app/build/intermediates/res/merged/debug/layout/item_sub_categoria.xml",
+        "source": "/Users/dezvezesdez/FarmaciaSerrano/app/src/main/res/layout/item_sub_categoria.xml"
+    },
+    {
+        "merged": "/Users/dezvezesdez/FarmaciaSerrano/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/dezvezesdez/.android/build-cache/dc4b39f51df5008b1ed8e525572bc35aa90f1307/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/dezvezesdez/FarmaciaSerrano/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/dezvezesdez/.android/build-cache/dc4b39f51df5008b1ed8e525572bc35aa90f1307/output/res/layout/abc_search_view.xml"
+    }
+]

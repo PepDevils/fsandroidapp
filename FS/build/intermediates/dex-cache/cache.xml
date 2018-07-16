@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/dezvezesdez/.android/build-cache/8e06093345dc04ce4afe70e881a8207ac79c26e4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/dezvezesdez/FarmaciaSerrano/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_86ef9eaad4d5c32667b58643646d6323568f6378/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dezvezesdez/FarmaciaSerrano/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bcb3829de368655f92491422106af7299430dfbe">
+        <dex dex="/Users/dezvezesdez/FarmaciaSerrano/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_bc9e2b0b0ff59105d88adeb0365850818e7ee610/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dezvezesdez/FarmaciaSerrano/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/dezvezesdez/FarmaciaSerrano/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ade9378cf1b04ae942c3a0856d16450cb4e73e53/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dezvezesdez/.android/build-cache/5b03df77df0ba060b88ed07a3fcda3e69be3b1c2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/dezvezesdez/FarmaciaSerrano/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c77b52a8203aaac45c813f044dbcdd33a5444fd7/classes.dex" />
+    </item>
+
+</items>

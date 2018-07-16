@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/llcriarconta"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:background="@android:color/white"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <EditText
+        android:id="@+id/edt_email_criar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textEmailAddress"
+        android:layout_margin="8dp"
+        android:hint="Email" />
+
+    <EditText
+        android:id="@+id/edt_pass_criar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        android:hint="Senha"
+        android:inputType="textPassword" />
+
+    <EditText
+        android:id="@+id/edt_pass_criar_rep"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        android:hint="Repetir Senha"
+        android:inputType="textPassword" />
+
+    <Button
+        android:id="@+id/criar"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_margin="8dp"
+        android:textColor="@android:color/white"
+        android:layout_gravity="center"
+        android:background="@drawable/selector_remove_button"
+        android:text="Criar" />
+
+
+</LinearLayout>

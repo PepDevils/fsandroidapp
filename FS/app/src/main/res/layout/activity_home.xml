@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:custom="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/lll"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    android:orientation="vertical"
+    tools:context="pt.dezvezesdez.farmaciaserrano.activities.HomeActivity">
+
+    <ImageView
+        android:id="@+id/logo_home"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="25dp"
+        android:layout_alignParentTop="true"
+        android:layout_gravity="center"
+        android:layout_margin="10dp"
+        android:src="@drawable/logo" />
+
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/logo_home">
+
+        <ScrollView
+            android:id="@+id/scrollview_home"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingTop="25dp"
+            >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <FrameLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <!--                <ImageButton
+                                        android:id="@+id/ibt_menu"
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="wrap_content"
+                                        android:src="@android:drawable/alert_dark_frame"
+                                        android:layout_gravity="end|top"
+                                        />-->
+
+                    <!--                <ImageView
+                                        android:id="@+id/logo_home"
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="wrap_content"
+                                        android:layout_gravity="center"
+                                        android:layout_margin="10dp"
+                                        android:src="@drawable/logo" />-->
+
+
+                </FrameLayout>
+
+
+                <com.daimajia.slider.library.SliderLayout
+                    android:id="@+id/slider"
+                    android:layout_width="match_parent"
+                    android:layout_height="175dp"
+                    custom:auto_cycle="true"
+                    custom:indicator_visibility="visible" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/fs_verde"
+                    android:gravity="center"
+                    android:paddingBottom="10dp"
+                    android:paddingTop="10dp"
+                    android:text="@string/question_categoria"
+                    android:textColor="@android:color/white"
+                    android:textSize="18sp" />
+
+                <FrameLayout
+                    android:id="@+id/fragment_container"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_below="@+id/line_v" />
+
+            </LinearLayout>
+
+
+        </ScrollView>
+
+        <ProgressBar
+            android:id="@+id/shades"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:clickable="true"
+            android:indeterminate="true"
+            android:visibility="gone">
+        </ProgressBar>
+
+    </FrameLayout>
+
+</RelativeLayout>

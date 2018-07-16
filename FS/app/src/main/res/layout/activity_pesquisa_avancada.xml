@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:clickable="true"
+    android:background="@android:color/white"
+    android:orientation="vertical">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/my_toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:background="?attr/colorPrimaryDark"
+        android:elevation="4dp"
+        app:titleTextColor="@android:color/black"
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="0dp" />
+
+    <include layout="@layout/sub_bar" />
+
+    <SearchView
+        android:id="@+id/sv_prod_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="20dp"
+        android:queryHint="Nome do Produto"
+        android:nextFocusDown="@+id/bt_pesquisar"
+        android:background="@drawable/search_bar_rounded_back"
+        android:iconifiedByDefault="false" />
+
+    <com.appyvet.rangebar.RangeBar xmlns:custom="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/rangebar"
+        android:layout_width="match_parent"
+        android:layout_height="72dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:nextFocusDown="@+id/bt_pesquisar"
+        custom:rangeBar="true"
+        custom:tickEnd="10"
+        custom:tickInterval="1"
+        custom:tickStart="5" />
+
+    <TextView
+        android:id="@+id/tx_price_seek"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:gravity="center"
+        android:text="Preço[€]: " />
+
+    <pt.dezvezesdez.farmaciaserrano.view.CustomSpinner
+        android:id="@+id/sp_categorias"
+        style="@style/AlertDialog.AppCompat.Light"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_gravity="center"
+        android:nextFocusDown="@+id/bt_pesquisar"
+        android:layout_marginBottom="20dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:background="@drawable/spinner_border_two"
+        android:gravity="center"
+        android:prompt="@string/categorias"
+        android:spinnerMode="dialog" />
+
+    <pt.dezvezesdez.farmaciaserrano.view.CustomSpinner
+        android:id="@+id/sp_ordenacao"
+        style="@style/AlertDialog.AppCompat.Light"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_gravity="center"
+        android:nextFocusDown="@+id/bt_pesquisar"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:background="@drawable/spinner_border_two"
+        android:gravity="center"
+        android:prompt="@string/ordenacao"
+        android:spinnerMode="dialog" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <Button
+            android:id="@+id/bt_pesquisar"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_alignParentBottom="true"
+            android:layout_margin="16dp"
+            android:background="@drawable/selector_pesquisa"
+            android:text="PESQUISAR"
+            android:textColor="@android:color/white" />
+
+    </RelativeLayout>
+
+</LinearLayout>

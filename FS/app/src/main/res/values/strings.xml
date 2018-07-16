@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Farmácia\nSerrano</string>
+    <string name="ordenacao">ORDENAÇÃO</string>
+    <string name="categorias">CATEGORIAS</string>
+    <string name="search_hint">procurar produto</string>
+    <string name="question_categoria">ESCOLHA A\nCATEGORIA PRETENDIDA</string>
+    <string name="title_activity_produto">ProdutoActivity</string>
+</resources>
